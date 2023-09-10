@@ -30,3 +30,4 @@ You can make your own PCB and stacked acrylic housing from the files on this rep
 
 ## How to flash your PCB
 Just plug it in and Drag&Drop .uf2 firmware file
+Currently, to be honest, it's WIP and doesn't support VIA. I will update this.
