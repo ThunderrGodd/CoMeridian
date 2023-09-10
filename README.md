@@ -3,12 +3,12 @@ Copy of Meridian, but not exactly same.
 You can make your own PCB and stacked acrylic housing from the files on this repo.
 
 
-![img](./images/front.jpg)
+![img](./Images/front.jpg)
 
 
 ## Features
 
-![img](./images/pcb.jpg)
+![img](./Images/pcb.jpg)
 
 ### PCB
   - Powered by RP2040, with 4MB flash memory storage
