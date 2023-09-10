@@ -12,7 +12,7 @@ You can make your own PCB and stacked acrylic housing from the files on this rep
 
 ### PCB
   - Powered by RP2040, with 4MB flash memory storage
-  - Almost same layout with Ai03's Meridian
+  - Almostly same layout with Ai03's Meridian
   - Support multi layout. Backspace split, Right Shift split, and Stepped/Normal CapsLock selection
   - Current version is for only solder, without any light. Hotswap and RGB lights will be added later
 
