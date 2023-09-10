@@ -3,7 +3,7 @@ Copy of Meridian, but not exactly same.
 You can make your own PCB and stacked acrylic housing from the files on this repo.
 
 
-![img](./Images/front.jpg)
+![img](./Images/top.jpg)
 
 
 ## Features
